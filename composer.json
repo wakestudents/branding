@@ -1,0 +1,13 @@
+{
+    "name": "wakestudents/branding",
+    "description": "The branding for the Wake Students' Site",
+    "license": "proprietary",
+    "homepage": "https://www.reedystudents.games",
+    "authors": [{
+        "name": "Ian Steiger",
+        "email": "iksteiger@gmail.com"
+    }],
+    "support": {
+        "issues": "https://github.com/wakestudents/branding/issues"
+    }
+}
