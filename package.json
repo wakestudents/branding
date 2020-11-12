@@ -1,0 +1,26 @@
+{
+    "name": "@wakestudents/branding",
+    "version": "1.2.0",
+    "description": "The Wake Students branding",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wakestudents/branding.git"
+    },
+    "keywords": [
+        "branding",
+        "wakestudents"
+    ],
+    "author": "Wake Students",
+    "license": "CC-BY-NC-ND-4.0",
+    "bugs": {
+        "url": "https://github.com/wakestudents/branding/issues"
+    },
+    "homepage": "https://github.com/wakestudents/branding#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}
