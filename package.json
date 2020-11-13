@@ -1,6 +1,6 @@
 {
     "name": "@wakestudents/branding",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "The Wake Students branding",
     "main": "index.js",
     "scripts": {
