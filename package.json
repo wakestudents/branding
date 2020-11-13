@@ -19,8 +19,5 @@
     "bugs": {
         "url": "https://github.com/wakestudents/branding/issues"
     },
-    "homepage": "https://github.com/wakestudents/branding#readme",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    }
+    "homepage": "https://github.com/wakestudents/branding#readme"
 }
